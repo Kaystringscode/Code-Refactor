@@ -25,3 +25,13 @@ The deployed website linked above was deployed using GitHub Pages.
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
 
 ### Mock up
+![kaystringscode github io_Code-Refactor-For-Horiseon_](https://user-images.githubusercontent.com/118690255/221334677-1ee657f9-ce72-473f-b83f-d4fcc4265bdc.png)
+
+## Credits
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.semrush.com/blog/semantic-html5-guide/#html-semantic-tags-for-text
+https://zoom.us/rec/play/AxHVFDqLJ3Ic0GakPAwRijnmfgCbL6N4Mvx3L4qJAyJtflTb_D77pTdBXWKxB5uJHtzfNGQcKNuObwlV.9W6xiG5U1U2BrvEB (office hour with Nirmeet)
+https://www.youtube.com/watch?v=IwdvGORcH2w (Tea Cozy Project (HTML + CSS) | Refactoring with a Senior Engineer!)
+https://www.youtube.com/watch?v=MsMmzIcSX3M (How to Refactor Site & CSS Advanced Secrets)
+
+
